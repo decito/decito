@@ -26,7 +26,7 @@
 - Delphi
 - Zabbix and general network infraestructure
 
-Contact me @ [LinkedIn](https://www.linkedin.com/in/decion/)
+Contact me @ [LinkedIn](https://www.linkedin.com/in/desceoneto/)
 
 Always looking to understand how things work to learn and to be able to help others learn too 💜
 
