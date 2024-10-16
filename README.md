@@ -4,7 +4,7 @@
 
 🌎 I'm from Brazil <br>
 🤓 I'm a Computer Scientist <br>
-💻 I'm working as a Frontend Engineer <br>
+💻 I'm working as a Software Engineer <br>
 🎯 I'm currently improving my skills in Web Development <br>
 🕹️ I'm a gamer <br>
 <br>
@@ -12,20 +12,21 @@
 
 ## My stack expertise
 
-- Vue & Angular
-- JS & Typescript
-- Consistent UI with CSS Frameworks
-- Web Wombo-Combo: HTML, CSS, JS
-- Git flow
+- React && Vue && Angular
+- Typescript
+- Responsive and Consistent UI
+- a11y
+- Core Web Technologies
+- Version Control w Git flow
 
 ## Also messed with
 
-- Other Web Frameworks such as React
+- Other Web Frameworks
 - Backend development w Node, PHP & Java
 - Desktop development w C & Pascal
 - Network (physical and virtual) Infrastructure
 
-Contact me @ [LinkedIn](https://www.linkedin.com/in/desceoneto/)
+Contact me @ [LinkedIn](https://www.linkedin.com/in/decitodev/)
 
 Always looking to understand how things work to learn and to be able to help others learn too 💜
 
