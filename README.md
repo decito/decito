@@ -4,7 +4,7 @@
 
 🌎 I'm from Brazil <br>
 🤓 I'm a Computer Scientist <br>
-💻 I'm working as a Software Engineer <br>
+💻 I'm working as a Software Developer && Software Analyst <br>
 🎯 I'm currently improving my skills in Web Development <br>
 🕹️ I'm a gamer <br>
 <br>
